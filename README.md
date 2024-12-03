@@ -2,7 +2,6 @@
 - 👀 I’m interested in learn more about python and JavaScript to contribuite better in future jobs;
 - 🌱 I’m currently learning Python and JavaScript; 
 - 📫 How to reach me: lucassperaficos@gmail.com or (51)98928-0411;
-- 😄 Pronouns: He/Him;
 - ⚡ Fun fact: at the start of this year i didn't know anything about programing, now i'am in love with this thing;
 
 <!---
