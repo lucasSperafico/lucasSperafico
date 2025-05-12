@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasSperafico;
-- 👀 I’m interested in learn more about Programming Languages and JavaScript to contribuite  in future jobs;
-- 🌱 I’m currently learning Python,HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps; 
+- 👀 I’m interested in learn more about Programming Languages like Java and JavaScript to contribuite  in future jobs;
+- 🌱 I’m currently learning Java, JavaScript and PostgreSQL; 
 - 📫 How to reach me: lucassperaficos@gmail.com or (51)98928-0411;
 - ⚡ Fun fact: at the start of 2024, I didn't know anything about programing, in 2025 I'm learning more things that I think I could;
 
