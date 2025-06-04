@@ -8,8 +8,9 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasSperafico&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img height="200" src="https://media.giphy.com/media/Pk95J8998AQLrsGOle/giphy.gif" alt="Cool anime gif" />
 </div>
+
 
 <br>
 
