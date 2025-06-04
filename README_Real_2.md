@@ -28,8 +28,9 @@
 
 <!-- GIF -->
 <div align="center">
-  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc47194c-4389-40b2-b130-e3de76db4ea0/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjNDcxOTRjLTQzODktNDBiMi1iMTMwLWUzZGU3NmRiNGVhMFwvZGY1dXNjbS0zZjE2YzVmNC1jNTkxLTQxNjgtYmNkOC0wMzc5MTFiYmY3MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ov_nko12J3DvSJmTe3nnhRt2S_Nm5Wl3EODBK-Z6omc" />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNibnB1YWFyZzMxeWM5ZXVsYmk1ZW81ZjE5YWRheXhzZ3BpNzZuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pk95J8998AQLrsGOle/giphy.gif" alt="Cool anime gif" />
 </div>
+
 
 <br>
 
