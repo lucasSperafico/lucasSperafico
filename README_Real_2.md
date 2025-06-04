@@ -8,9 +8,8 @@
 <br>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/Pk95J8998AQLrsGOle/giphy.gif" alt="Cool anime gif" />
+  <img src="https://streak-stats.demolab.com?user=lucasSperafico&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
-
 
 <br>
 
@@ -29,9 +28,8 @@
 
 <!-- GIF -->
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNibnB1YWFyZzMxeWM5ZXVsYmk1ZW81ZjE5YWRheXhzZ3BpNzZuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pk95J8998AQLrsGOle/giphy.gif" alt="Cool anime gif" />
+  <img height="200" src="https://media.giphy.com/media/Pk95J8998AQLrsGOle/giphy.gif" alt="Cool anime gif" />
 </div>
-
 
 <br>
 
