@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas Sperafico and I'm a Dev, from Brasil</h2>
+<h2 align="center">Hi 👋! My name is Lucas Sperafico and I'm a Dev, from Brasil</h2>
 
 <!-- STATS -->
 <div align="center">
