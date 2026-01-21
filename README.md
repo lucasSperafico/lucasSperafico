@@ -7,10 +7,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasSperafico&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
 <br>
 
 <!-- TECH STACK -->
