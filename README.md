@@ -3,7 +3,7 @@
 <!-- STATS -->
 <div align="center">
   <img
-  src="https://streak-stats.demolab.com?user=lucasSperafico&theme=rose-pine"
+  src="https://streak-stats.demolab.com?user=lucasSperafico&theme=github-dark"
   height="150"
   alt="GitHub Streak"
   />
