@@ -3,9 +3,9 @@
 <!-- STATS -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lucasSperafico&show_icons=true&include_all_commits=true&theme=rose_pine"
-    height="150"
-    alt="GitHub stats"
+  src="https://streak-stats.demolab.com?user=lucasSperafico&theme=rose-pine"
+  height="150"
+  alt="GitHub Streak"
   />
 </div>
 
